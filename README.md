@@ -5,4 +5,4 @@ I am working on the bwForHelix cluster and I used interactive SLURM jobs (via sa
 
 ![image](https://github.com/user-attachments/assets/5a272a30-5404-43a9-a0d4-690ee4d37262)
 
-In this repo, you can find a minimal working example from what I used on the cluster and which still crashes.
+In this repo, you can find a minimal working example from what I used on the cluster to crash the kernel.
